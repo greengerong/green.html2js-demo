@@ -1,0 +1,1 @@
+demo for [green.html2js](https://github.com/greengerong/html2js)
